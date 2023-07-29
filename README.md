@@ -30,9 +30,3 @@ Projects Included:
 Getting Started
 
 Each project comes with comprehensive documentation to guide you through setup, configuration, and deployment. Follow the step-by-step instructions to explore the full potential of DevOps in AWS.
-
-
-
-Contributions
-
-Contributions to this repository are welcome! If you have innovative DevOps projects built on the AWS console that you'd like to share, feel free to submit a pull request. Let's collaborate and enhance our collective knowledge in the world of cloud DevOps!
