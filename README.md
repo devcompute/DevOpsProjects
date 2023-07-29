@@ -1,4 +1,4 @@
-# DevOps Projects in AWS Console Getting Started
+# DevOps Projects in AWS Console
 
 Overview
 
