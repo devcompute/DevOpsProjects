@@ -1,6 +1,7 @@
-# DevOpsProjects in AWS Console Getting Started
+# DevOps Projects in AWS Console Getting Started
 
 Overview
+
 Welcome to the DevOps Projects repository for AWS! Here, you will find a collection of projects that exemplify the power of DevOps practices within the AWS console. Each project is meticulously crafted to showcase automation, monitoring, and seamless integration of various AWS services to bolster your cloud infrastructure.
 
 
