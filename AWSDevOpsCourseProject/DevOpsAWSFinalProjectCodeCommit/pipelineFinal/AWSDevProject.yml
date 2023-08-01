@@ -1,0 +1,59 @@
+
+    "AWSTemplateFormatVersion": "2010-09-09",
+    "Metadata": {
+        "AWS::CloudFormation::Designer": {
+            "d7d099c8-d804-457d-aa0e-fbc0fde2eeab": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 430,
+                    "y": 160
+                },
+                "z": 0
+            },
+            "c699737f-48a2-4e2f-9d19-eec0b8f7c88c": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 358,
+                    "y": 247
+                },
+                "z": 0,
+                "isassociatedwith": [
+                    "d7d099c8-d804-457d-aa0e-fbc0fde2eeab"
+                ]
+            },
+            "2afd5dea-5de7-43e3-9b8a-2e709247d7b0": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 460,
+                    "y": 260
+                },
+                "z": 0
+            },
+            "a90867ce-4c21-4e16-ba58-e49da6e94523": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 323,
+                    "y": 174
+                },
+                "z": 0,
+                "dependson": [
+                    "d7d099c8-d804-457d-aa0e-fbc0fde2eeab"
+                ]
+            },
+            "f495bad9-72d9-4021-864a-00c959cfd8a2": {
+                "source": {
+                    "id": "c699737f-48a2-4e2f-9d19-eec0b8f7c88c"
+                },
+
